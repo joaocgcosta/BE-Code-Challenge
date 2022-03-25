@@ -15,6 +15,11 @@
 		<li><p>Written in C# using .Net Core</p></li>
 		<li><p>Include an example unit test</p></li>
 	</ul>
+	<p>Future work:</p>
+	<ul>
+		<li><p>Add resilience strategies</p></li>
+		<li><p>Add log strategy</p></li>
+	</ul>
 <p>Useful commands:</p>
 	<ul>
 		<li><code>dotnet ef --verbose migrations add CreateInitial --project .\MED.MedicationManagement.Persistence\ --startup-project .\MED.MedicationManagement.Api\</code></li>
